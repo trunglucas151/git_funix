@@ -6,10 +6,10 @@
     --font-size-heading: 32px;
     --font-size-sub-heading: 24px;
     --font-size-nav-item: 13px;
-    --place-height-half: auto;
+    --place-height-half: 160px;
     --place-mt: 36px;
     --place-item-mt: 48px;
-    --place-height-full: 380px;
+    --place-height-full: 360px;
 }
 
 /* PC Screen min-width: 992px*/
